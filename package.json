@@ -1,0 +1,17 @@
+{
+  "name": "qap3_restful_api",
+  "version": "1.0.0",
+  "description": "QAP3 Combined FS + DB  development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Layman",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^5.0.0-beta.2",
+    "method-override": "^3.0.0",
+    "pg": "^8.11.3"
+  }
+}
